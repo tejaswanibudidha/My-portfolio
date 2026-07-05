@@ -43,7 +43,7 @@ const projects = [
     title: 'Portfolio Website',
     description: 'My personal developer portfolio showcasing my skills, projects, education, certifications, internship experience, and contact information.',
     tech: ['React.js', 'Vite', 'Tailwind CSS', 'Framer Motion'],
-    github: 'https://github.com/tejaswanibudidha/portfolio-',
+    github: 'https://github.com/tejaswanibudidha/My-portfolio',
     image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80'
   }
 ];
